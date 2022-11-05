@@ -1,25 +1,58 @@
 
-body{
-  background-color: lightgrey;
-}
-#kt3{
- color: #3e669c;
-}
 hr{
   border-style: none;
- border: dotted #71b6a4;
+ border: dotted #ffffcc;
  width: 10%;
  border-width:0 0 5px;
 
 }
+body{
+  background-color: #2C2D32;
+
+}
+#kt3{
+  color: #ff740a !important;
+
+
+}
+#name{
+  background: #ff740a;
+  background-image: linear-gradient(0deg, rgba(30,100,300,1) 0%, red  60%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+
+}
 #s1234{
-  background-color: b4b4b4;
+  color: #ffffcc;
 }
 #t2{
-  color: #3e669c;
+  background: #C39A21;
+background-image: linear-gradient(3deg, #9fff3b 0%, #ff2525 74%) !important;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+}
+#slot1color{
+    color: rgba(184, 198, 204, 1) !important;
+
+
 }
 #tk2{
   border: 10px solid transparent;
 padding: 15px;
   border-image: url("Shahadathossain/Image\border.png") 30 round;
+}
+#title{
+  background: linear-gradient(0deg, rgba(72,131,245,1) 0%, rgba(0,255,0,1) 100%) !important;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+}
+#skill-color{
+  background-color: #faed00;
+  background-image: linear-gradient(0deg, #faed00 0%, #ff8d5b 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+#edu{
+color: red !important
 }
