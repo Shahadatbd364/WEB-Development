@@ -1,0 +1,25 @@
+
+body{
+  background-color: lightgrey;
+}
+#kt3{
+ color: #3e669c;
+}
+hr{
+  border-style: none;
+ border: dotted #71b6a4;
+ width: 10%;
+ border-width:0 0 5px;
+
+}
+#s1234{
+  background-color: b4b4b4;
+}
+#t2{
+  color: #3e669c;
+}
+#tk2{
+  border: 10px solid transparent;
+padding: 15px;
+  border-image: url("Shahadathossain/Image\border.png") 30 round;
+}
